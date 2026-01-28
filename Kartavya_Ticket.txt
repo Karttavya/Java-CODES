@@ -1,0 +1,9 @@
+--------------------------------------
+       BOARDING PASS - IIST AIR       
+--------------------------------------
+Passenger Name : Kartavya
+Flight ID      : UK-303
+Route          : Jaipur to Delhi
+Fare           : ₹3500.0
+Status         : CONFIRMED
+--------------------------------------
